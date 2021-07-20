@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875620689481",
+    "project_id": "karmac",
+    "storage_bucket": "karmac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875620689481:android:3c198b9e1c3af3b438c198",
+        "android_client_info": {
+          "package_name": "com.example.karmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875620689481-sbhine4ksepcfle627ga8sl7i0a1fc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdEyn3v4tM4lRZZ5sJrf1dDC6NOK67no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875620689481-sbhine4ksepcfle627ga8sl7i0a1fc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
